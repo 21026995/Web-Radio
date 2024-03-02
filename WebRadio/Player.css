@@ -1,0 +1,22 @@
+body {
+    background: #ccc;
+    user-select: none;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .currently-playing {
+    font-size: 20px;
+    font-weight: 100;
+    padding: 110px 0;
+  }
+  .voice-command-prompts {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #fff;
+  }
+  
+  .voice-command-prompts span {
+    display: block;
+    margin-bottom: 10px;
+  }
